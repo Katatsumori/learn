@@ -2,5 +2,6 @@ body {
   padding: 30px;
   background-color: red;
   margin: 20px;
-  border: 1px solid red;
+  border: none;
+
 }
